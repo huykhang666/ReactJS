@@ -4,7 +4,7 @@
 
 🎯 *Lưu lại quá trình học và thực hành ReactJS của mình — từ cơ bản đến nâng cao.*
 
-![React Banner](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="120" alt="React Logo" />
 
 </div>
 
@@ -13,10 +13,10 @@
 ## 📘 Giới thiệu
 
 Đây là repo ghi lại toàn bộ quá trình mình học **ReactJS**, bao gồm:
-- Bài học lý thuyết
-- Bài tập thực hành
-- Mini project
-- Ghi chú cá nhân
+- Bài học lý thuyết  
+- Bài tập thực hành  
+- Mini project  
+- Ghi chú cá nhân  
 
 > 🔗 Dựa trên khóa học [ReactJS F8 - Fullstack.edu.vn](https://fullstack.edu.vn/learning/reactjs)
 
@@ -47,8 +47,6 @@
 
 ---
 
----
-
 ## ▶️ Cách chạy project
 
 ### 1️⃣ Chạy trực tiếp (dạng HTML thuần)
@@ -60,15 +58,16 @@
 ```bash
 npm install
 npm run dev
----
+```
+
 🎯 Mục tiêu cá nhân
 
 Xây dựng nền tảng vững chắc về ReactJS để phát triển web hiện đại,
 kết hợp với Backend Java (Spring Boot) trong các dự án thực tế sau này.
 
-❤️ Cảm ơn
+❤️ Nơi Học Tập
 
-Giảng viên: Phạm Huy Hoàng - F8
+Kênh: Phạm Huy Hoàng - F8
 
 Tài liệu chính thức: https://react.dev
 
